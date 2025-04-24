@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nauman90py
+⁹- 👋 Hi, I’m @nauman90py
 - 👀 I’m interested in Artificial Intelligence, Data Science, and Machine Learning.
 - 🌱 I’m currently learning Python and exploring AI concepts.
-- 💞️ I’m looking to collaborate on projects related to AI, machine learning, and data analysis.
+-  I’m looking to collaborate on projects related to AI, machine learning, and data analysis.
 - 📫 How to reach me: You can reach me via [email: naumanhasan90@gmail.com]
 - 😄 Pronouns:  He/Him
 
